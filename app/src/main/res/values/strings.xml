@@ -1,0 +1,525 @@
+<resources>
+    <string name="app_name">InfoVacinas</string>
+    <string name="integrantes">
+        <ul>
+            <li>Diogo de Paula Carvalho</li>\n
+            <li> Lucas Rodrigues Ubaldo Walylo</li>\n
+            <li> Pedro Lucas Tinti</li>\n
+            <li> Pedro Zanette Silva</li>\n
+        </ul>
+    </string>
+
+    <string name="sobre_vacinas">
+        <p>A vacinação é uma das formas mais eficazes de combate a doenças que podem ser prevenidas, bem como no enfrentamento de epidemias. \nAs vacinas nos protegem de forma segura e eficaz e permitem que nosso sitema imunológico esteja preparado para combater determinadas infecções.</p>
+    </string>
+
+    <string name="importancia_vacina">
+        <p>As vacinas são medidas de saúde social, ou seja, protegem toda a população, mesmo que alguns indivíduos não estejam imunizados. \nIsso se dá pela característica de rede na transmissão das doenças: se cada indivíduo infectado transmitir a doença para apenas mais uma pessoa, logo a população inteira poderá estar doente. Já um indivíduo vacinado não desenvolve a doença caso entre em contato com o vírus ou a bactéria, além de quebrar o ciclo de contágio.</p>
+
+    </string>
+
+    <string name="rotina_campanha">
+        <p>Rotina: É a lista de vacinas indicadas por público e faixa etária. O exemplo para compreender é a rotina de vacinação das crianças, do nascimento até os 5 anos.</p>\n
+        <p>Campanha: São destinadas à imunização dos indivíduos contra doenças específicas e que podem trazer problemas graves a esse público.</p>
+    </string>
+
+    <string name="disciplina">
+        <p>Disciplina: Linguagem de programação I - Atividade de extensão.</p>\n\n
+        <p>Orientador: Prof. Dr. Elvio Gilberto da Silva.</p>\n\n
+        <p>Colaboradora: Prof. Dra. Marcia Aparecida Nuevo Gatti</p>\n
+    </string>
+
+    <string name="hepatite_b">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><p><small>Infecção do fígado (hepatite) causada pelo vírus da hepatite B.</small></p></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><p><small>Para pessoas de todas as faixas etárias. Faz parte da rotina de vacinação das crianças, devendo ser aplicada, de preferência, nas primeiras 12-24 horas após o nascimento, para prevenir hepatite crônica – forma que acomete 90% dos bebês contaminados ao nascer. Especialmente indicada para gestantes não vacinadas.</small></p></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><p><small>Não deve ser aplicada em pessoas que apresentaram anafilaxia com qualquer componente da vacina ou com dose anterior. Ou nas que desenvolveram púrpura trombocitopênica após dose anterior de vacina com componente hepatite B.</small></p></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><p><small>Para a vacinação rotineira de crianças, o Programa Nacional de Imunizações (PNI) adotou o esquema de quatro doses: uma dose em formulação isolada ao nascimento e doses aos 2, 4 e 6 meses de vida, incluídas na vacina pentavalente de células inteiras. A Sociedade Brasileira de Pediatria (SBP) e a Sociedade Brasileira de Imunizações (SBIm) recomendam os esquemas de quatro doses (adotado pelo PNI) ou de três doses: ao nascimento, em formulação isolada, e aos 2 e 6 meses de vida, como parte da vacina hexavalente acelular. Aos 4 meses é recomendada a vacina penta acelular, que não contém o antígeno hepatite B em sua formulação.</small></p></li>\n
+            <li><p><small>Para crianças mais velhas, adolescentes e adultos não vacinados no primeiro ano de vida, o PNI, a SBP e a SBIm recomendam três doses, com intervalo de um ou dois meses entre a primeira e a segunda dose e de seis  meses entre a primeira e a terceira.</small></p></li>\n\n
+        </ul>
+
+
+
+
+
+
+
+    </string>
+
+    <string name="dupla_adulto">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Difteria e tétano.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>A vacina é utilizada na rede pública para a proteção das pessoas que não iniciaram ou não terminaram o esquema contra difteria e tétano até os 7 anos de idade e para as doses de reforço a cada dez anos.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Não deve ser aplicada em pessoas que apresentaram anafilaxia com qualquer componente da vacina ou com dose anterior. Ou nas que desenvolveram púrpura trombocitopênica após dose anterior de vacina com componente hepatite B.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Sempre que possível, a dT deve ser substituída pela tríplice bacteriana acelular do tipo adulto (dTpa), que também previne a coqueluche</small></li>\n
+            <li><small>Para crianças a partir de 7 anos de idade, adolescentes e adultos com:</small></li>\n
+            <p><small>Esquema vacinal básico contra o tétano completo: uma dose a cada dez anos.</small></p>\n
+            <p><small>Esquema vacinal básico contra o tétano incompleto: uma dose de dTpa a qualquer momento, seguida de uma ou duas outras doses da dT (dependendo de quantas faltam para completar o esquema de três doses contra o tétano). Posteriormente, reforços a cada dez anos. A vacina dTpa pode substituir a vacina dT.</small></p>\n
+            <p><small>Histórico vacinal desconhecido ou não vacinados: uma dose de dTpa a qualquer momento, seguida de duas outras doses da dT, no esquema 0 – 2 - 4 a 8 meses. Posteriormente, reforços a cada dez anos. A vacina dTpa pode substituir a vacina dT.</small></p>\n\n
+        </ul>
+    </string>
+
+    <string name="febre_amarela">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Febre amarela.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas a partir de 9 meses de idade.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Crianças abaixo de 6 meses de idade.</small></li>\n
+            <li><small>Indivíduos infectados pelo HIV, sintomáticos e com imunossupressão grave comprovada por exame de laboratório.</small></li>\n
+            <li><small>Pessoas com imunodepressão grave por doença ou uso de medicação.</small></li>\n
+            <li><small>Pacientes que tenham apresentado doença neurológica desmielinizante no período de seis semanas após a aplicação de dose anterior da vacina.</small></li>\n
+            <li><small>Gestantes, salvo em situações de alto risco de infecção, o que deve ser avaliado pelo médico;</small></li>\n
+            <li><small>Mulheres amamentando bebês com até 6 meses. Se a vacinação não puder ser evitada, suspender o aleitamento materno por 10 dias. Procure o pediatra para mais orientações.</small></li>\n
+            <li><small>Pacientes submetidos a transplante de órgãos.</small></li>\n
+            <li><small>Pacientes com câncer.</small></li>\n
+            <li><small>Pessoas com histórico de reação anafilática relacionada a substâncias presentes na vacina (ovo de galinha e seus derivados, gelatina bovina ou outras).</small></li>\n
+            <li><small>Pacientes com história pregressa de doenças do timo (miastenia gravis, timoma, casos de ausência de timo ou remoção cirúrgica).</small></li>\n
+            <li><small>Em princípio há contraindicação para gestantes, mas a administração deve ser analisada de acordo com o grau de risco, por exemplo, na vigência de surtos em crianças abaixo de 6 meses de idade.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Rotina:</small></li>\n
+            <p><small>Crianças até 4 anos: duas doses, aos 9 meses e aos 4 anos.</small></p>\n
+            <p><small>Acima de 4 anos: Não há consenso sobre a duração da proteção conferida pela vacina. De acordo com o risco epidemiológico, uma segunda dose pode ser considerada pela possibilidade de falha vacinal.</small></p>\n
+            <li><small>Observação: O Ministério da Saúde usou em 2018 doses fracionadas como forma de conter o surto vigente na ocasião. A estratégia é reconhecida pela Organização Mundial de Saúde (OMS) como segura e eficaz.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="triplice_viral">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Sarampo, caxumba e rubéola.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Crianças, adolescentes e adultos.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Gestantes, pessoas com comprometimento da imunidade por doença ou medicação, história de anafilaxia após aplicação de dose anterior da vacina ou a algum componente.</small></li>\n
+            <li><small>A maioria das crianças com história de reação anafilática a ovo não tem reações adversas à vacina e, mesmo quando a reação é grave, não há contraindicação ao uso da vacina tríplice viral. Foi demonstrado, em muitos estudos, que pessoas com alergia ao ovo, mesmo aquelas com alergia grave, têm risco insignificante de reações anafiláticas. Teste cutâneo não é recomendado, pois não consegue prever se a reação acontecerá. No entanto, é recomendado que estas crianças, por precaução, sejam vacinadas em ambiente hospitalar ou outro que ofereça condições de atendimento de anafilaxia.</small></li>\n\n
+
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>A SBIm considera protegido todo indivíduo que tomou duas doses na vida, com intervalo mínimo de um mês, aplicadas a partir dos 12 meses de idade.</small></li>\n
+            <li><small>Em situação de risco para o sarampo – surtos ou exposição domiciliar, por exemplo – a primeira dose pode ser aplicada a partir dos 6 meses de idade. Essa dose, porém, não conta para o esquema de rotina: continuam a ser necessárias duas doses a partir dos 12 meses, com intervalo mínimo de 1 mês.</small></li>\n
+            <li><small>Como rotina para crianças, as sociedades brasileiras de Pediatria (SBP) e de Imunizações (SBIm) recomendam duas doses: uma aos 12 meses e a outra aos 15 meses, podendo ser usadas a vacina SCR ou a combinada SCR-V (tetraviral).</small></li>\n
+            <li><small>Para crianças mais velhas, adolescentes e adultos não vacinados ou sem comprovação de doses aplicadas, a SBIm recomenda duas doses, com intervalo de um a dois meses.</small></li>\n
+            <li><small>Em casos de surto de caxumba ou sarampo, pode ser considerada a aplicação de uma terceira dose em pessoas com esquema completo. Não há, no entanto, evidências que justifiquem a medida na rotina.</small></li>\n
+            <li><small>Na rotina do Programa Nacional de Imunizações (PNI) para a vacinação infantil, a primeira dose desta vacina é aplicada aos 12 meses de idade; e aos 15 meses (quando é utilizada a vacina combinada à vacina varicela [tetraviral: SCR-V]). Também podem se vacinar gratuitamente indivídos até 29 anos (duas doses, com intervalo mínimo de 30 dias) e indivíduos entre 30 e 59 anos (uma dose).</small></li>\n
+            <li><small>Indivíduos com história pregressa de sarampo, caxumba e rubéola são considerados imunizados contra as doenças, mas é preciso certeza do diagnóstico. Na dúvida, recomenda-se a vacinação.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="influenza">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Infecção pelo vírus Influenza (que causa a gripe) contidos nas vacinas.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para todas as pessoas a partir de 6 meses de vida, principalmente aquelas de maior risco para infecções respiratórias, que podem ter complicações e a forma grave da doença.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas com alergia grave (anafilaxia), a algum componente da vacina ou a dose anterior.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>A partir de 9 anos: dose única anual.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="pneumococica_23">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Doenças causadas por 23 tipos de pneumococos.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para crianças acima de 2 anos, adolescentes e adultos que tenham algum problema de saúde que aumenta o risco para doença pneumocócica (diabetes, doenças cardíacas e respiratórias graves; sem baço ou com o funcionamento comprometido desse órgão; com problemas de imunidade, entre outras condições).</small></li>\n
+            <li><small>Para pessoas a partir de 60 anos deve ser aplicada de rotina.</small></li>\n
+            <li><small>Não é recomendada como rotina para crianças, adolescentes e adultos saudáveis.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Crianças, adolescentes e adultos que apresentaram anafilaxia causada por algum componente ou dose anterior da vacina.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Recomenda-se a combinação da VPP23 com a VPC13. Idealmente, deve-se iniciar o esquema com a aplicação de vacina pneumocócica conjugada (VPC10 ou VPC13) — veja as indicações de cada uma — e aplicar uma dose da VPP23 seis a 12 meses depois da dose da vacina conjugada, e outra cinco anos após a primeira dose de VPP23.</small></li>\n
+            <li><small>Na maioria das vezes não se recomenda aplicar mais de duas doses de VPP23.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="bcg">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Tuberculose – principalmente as formas graves, como meningite tuberculosa e tuberculose miliar (espalhada pelo corpo)</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>A vacina é indicada de rotina a partir do nascimento até antes de a criança completar 5 anos de idade. Para pessoas de qualquer idade que convivem com portadores de hanseníase (lepra).</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas imunossuprimidas e recém-nascidos de mães que usaram medicamentos que possam causar imunodepressão do feto durante a gestação.</small></li>\n
+            <li><small>Prematuros, até que atinjam 2 kg de peso.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Dose única.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="Pentavalente">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Difteria, tétano, coqueluche, hepatite B e infecções pelo Haemophilus influenza b.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>São recomendadas para crianças a partir de 2 meses de idade e podem ser aplicadas até os 7 anos de idade.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Maiores de 7 anos.</small></li>\n
+            <li><small>Crianças que apresentaram encefalopatia nos sete dias seguintes à aplicação anterior de vacina contendo componente pertussis.</small></li>\n
+            <li><small>Anafilaxia a qualquer componente da vacina.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Para vacinação rotineira de crianças, doses aos 2, 4 e 6 meses de idade. Importante respeitar o intervalo entre vacinas, que é de 2 meses da dose anterior.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="DTP">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Difteria, tétano e coqueluche.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Crianças com menos de 7 anos de idade. Mesmo que já tiveram tétano, difteria, doença causado pelo <i>Haemophilus influenzae</i> tipo b (Hib) e/ou coqueluche devem ser imunizadas, uma vez que estas doenças não conferem proteção permanente frente a novas infecções.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Maiores de 7 anos.</small></li>\n
+            <li><small>Crianças que apresentaram encefalopatia nos sete dias seguintes à aplicação anterior de vacina contendo componente pertussis.</small></li>\n
+            <li><small>Anafilaxia a qualquer componente da vacina.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Para a vacinação rotineira de crianças (aos 2, 4, 6 meses e entre 12 e 18 meses), preferir a vacina quíntupla (penta) ou hexa, nas quais a DTPa é combinada a outras vacinas. Ver DTPa-VIP/Hib ou DTPa-VIP-HB/Hib. Para a dose de reforço entre 4 e 5 anos de idade, a DTPa pode ser substituída por dTpa ou dTpa-VIP.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="poliomielite">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Poliomielite.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Devido à erradicação da poliomielite em diversas regiões do mundo e também para evitar a paralisia que pode ser causada pelo vírus contido na vacina oral (VOP), a Organização Mundial da Saúde (OMS) recomenda que países como o Brasil, de baixo risco para o desenvolvimento da doença, passem a utilizar a vacina inativada (VIP), sempre que possível.</small></li>\n
+            <li><small>Desde 2016, o Programa Nacional de Imunizações (PNI) adota a vacina VIP nas três primeiras doses do primeiro ano de vida (aos 2, 4 e 6 meses de idade) e a VOP no reforço e campanhas anuais de vacinação.</small></li>\n
+            <li><small>A Sociedade Brasileira de Imunizações (SBIm) orienta que a VIP seja a vacina de preferência na administração de todas as doses.</small></li>\n
+            <li><small>A vacina poliomielite é indicada de rotina para todas as crianças menores de 5 anos.</small></li>\n
+            <li><small>Para viajantes adolescentes e adultos com destino a países onde a doença é endêmica, como o Paquistão e o Afeganistão, ou a locais onde há risco de transmissão e registro de casos de poliomielite causada pelo vírus vacinal.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+         <ul>
+            <li><p><b>VOP</b></p></li>\n
+             <small>Gestantes e todos os que convivem com esses grupos; pessoas que sofreram anafilaxia após o uso de componentes da fórmula da vacina (em especial os antibióticos neomicina, polimixina e estreptomicina); pessoas que desenvolveram a pólio vacinal após dose anterior.</small>\n
+             <small>Pessoas com deficiência do sistema imunológico causada por doença ou medicamentos; portadoras do vírus do HIV; gestantes e todos os que convivem com esses grupos; pessoas que sofreram anafilaxiaapós o uso de componentes da fórmula da vacina (em especial osantibióticos neomicina, polimixina e estreptomicina); pessoas que desenvolveram a pólio vacinal após dose anterior.</small>\n
+            <li><p><b>VIP</b></p></li>\n
+             <small>A história de reação alérgica grave (anafilaxia) à dose anterior da vacina, ou a algum de seus componentes, contraindica doses futuras.</small>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <small>A imunização contra a poliomielite deve ser iniciada a partir dos 2 meses de vida, com mais duas doses aos 4 e 6 meses, além dos reforços entre 15 e 18 meses e aos 5 anos de idade</small>\n
+            <li><p><b>VIP</b></p></li>\n
+             <small>Na rotina de vacinação infantil: aos 2, 4 e 6 meses, com reforços entre 15 e 18 meses e entre 4 e 5 anos de idade. Na rede pública as doses, a partir de um ano de idade, são feitas com VOP.</small>\n
+            <li><p><b>VOP</b></p></li>\n
+             <small>Na rotina de vacinação infantil nas Unidades Básicas de Saúde, é aplicada nas doses de reforço dos 15 meses e dos 4 anos de idade e em campanhas de vacinação para crianças de 1 a 4 anos.</small>\n\n
+        </ul>
+    </string>
+
+    <string name="pneumococica_10">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>A vacina pneumocócica 10 (VPC10) previne cerca de 70% das doenças graves (pneumonia, meningite, otite) em crianças, causadas por dez sorotipos de pneumococos.</small></li>\n
+            <li><small>A vacina pneumocócica 13 (VPC13) previne cerca de 90% das doenças graves (pneumonia, meningite, otite) em crianças, causadas por 13 sorotipos de pneumococos.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para crianças a partir de 2 meses e menores de 6 anos de idade é recomendada a vacinação rotineira com VPC10 ou VPC13.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+         <ul>
+             <li><small>Crianças que apresentaram anafilaxia após usar algum componente da vacina ou após dose anterior da vacina.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <p><b>VPC10 ou VPC13</b></p>\n
+            <li><small>As sociedades brasileiras de Pediatria (SBP) e de Imunizações (SBIm) recomendam, sempre que possível, o uso da VPC13, devido à proteção contra mais sorotipos.</small></li>\n
+            <li><small>O Programa Nacional de Vacinação passou a adotar, em 2016, na rotina de vacinação infantil, duas doses de VPC10 com intervalo mínimo de 2 meses no primeiro ano de vida e uma dose de reforço aos 12 meses de idade.   </small></li>\n
+            <li><small>As sociedades brasileiras de Pediatria (SBP) e de Imunizações (SBIm) recomendam a vacinação infantil de rotina com quatro doses da vacina VPC13: aos 2, 4 e 6 meses de vida e reforço entre 12 e 15 meses.</small></li>\n
+            <li><small>Para crianças entre 1 e 2 anos e não vacinadas: duas doses com intervalo de dois meses.         </small></li>\n
+            <li><small>Para crianças entre 2 e 5 anos de idade:</small></li>\n
+            <small>Não vacinadas: uma dose.</small>\n
+            <small>Portadoras de doenças crônicas que justifiquem, pode ser necessário complementar a vacinação com a vacina pneumocócica polissacarídica 23-valente (VPP23).</small>\n
+            <li><small>Crianças que começam a vacinação com atraso, após os 6 meses de vida, precisam que seus esquemas sejam adaptados de acordo com a idade de início. Crianças vacinadas com a VPC10 podem ser beneficiadas pela VPC13. A vacina deve ser administrada no mínimo dois meses após a última VPC10 e o número de doses dependerá do recomendado para a idade em que a primeira dose de VPC13 for aplicada.</small></li>\n
+            <p><b>VPC13</b></p>\n
+             <li><small>Para crianças a partir de 6 anos, adolescentes e adultos com doenças crônicas que justifiquem a vacinação e ainda não vacinados: dose única. Em algumas situações, duas doses com intervalo de dois meses podem estar indicadas. Nesses casos, pode ser necessário complementar a vacinação com a vacina pneumocócica polissacarídica 23-valente (VPP23).</small></li>\n
+             <li><small>Crianças menores de 6 anos que completaram o esquema de vacinação nas Unidades Básicas de Saúde com a vacina VPC10 têm benefícios se tomarem mais uma dose da VPC13, o que aumenta a proteção contra a doença pneumocócica. O número de doses dependerá da idade em que a primeira dose de VPC13 for aplicada.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="rotavirus">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Doença diarreica causada por rotavírus.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Bebês de 6 semanas a 8 meses e 0 dia. A primeira dose deve ser obrigatoriamente aplicada até a idade de 3 meses e 15 dias, e a última dose até os 7 meses e 29 dias.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Crianças fora da faixa etária citada acima; com deficiências imunológicas por doença ou uso de medicamentos que causam imunossupressão; com alergia grave (urticária disseminada, dificuldade respiratória e choque anafilático) provocada por algum dos componentes da vacina ou por dose anterior dela; e com doença do aparelho gastrintestinal ou história prévia de invaginação intestinal.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><b>Vacina oral monovalente (VRH1):</b></li>\n
+            <li><small>Para crianças a partir de 6 semanas de idade: em duas doses, com intervalo mínimo de quatro semanas. Esquema padrão: 2 e 4 meses de idade.</small></li>\n
+            <li><b>Vacina oral atenuada pentavalente (VRH5):</b></li>\n
+            <li><small>Para crianças a partir de 6 semanas de idade: três doses, com intervalo mínimo de quatro semanas. Esquema padrão: 2, 4 e 6 meses de idade.</small></li>\n
+            <li><b>Sobre ambas as vacinas:</b></li>\n
+            <li><small>A idade máxima para começar a vacinação é 3 meses e 15 dias. Se houver atraso além dessa idade, a imunização não poderá ser iniciada. Da mesma forma, a idade máxima para a última dose é 7 meses e 29 dias.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="meningococica_c">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Doenças causadas pelo meningococo C (incluindo meningite).</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para crianças e adolescentes.</small></li>\n
+            <li><small>Para adultos e idosos com condições que aumentem o risco para a doença meningocócica ou de acordo com a situação epidemiológica.</small></li>\n
+            <li><small>Para viajantes com destino às regiões onde há risco aumentado da doença.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas que tiveram anafilaxia após uso de algum componente da vacina ou a dose anterior.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>A SBIm recomenda que a vacina meningocócica conjugada quadrivalente (ACWY) seja preferida para crianças, adolescentes e adultos, visto que protege contra três outros tipos de meningococos, além do C.</small></li>\n
+            <li><small>Para crianças, a vacinação de rotina deve iniciar aos 3 meses de idade com duas doses no primeiro ano de vida e reforços entre 12 e 15 meses, entre 5 e 6 anos e aos 11 anos de idade.</small></li>\n
+            <li><small>Para adultos, somente em situações que justifiquem, em dose única.</small></li>\n
+            <li><small>O PNI disponibiliza três doses da vacina meningocócica C na infância: aos 3 e 5 meses, e um reforço aos 12 meses, que pode ser aplicado até antes de completar 5 anos. Para adolescentes, uma dose é oferecida entre os 11 e 12 anos (como reforço ou dose única, a depender da situação vacinal).</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="meningococica_c_acwy">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Meningites e infecções generalizadas (doenças meningocócicas) causadas pela bactéria meningococo dos tipos A, C, W e Y.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para crianças a partir de 2 meses e adolescentes.</small></li>\n
+            <li><small>Para adultos e idosos com condições que aumentem o risco para a doença meningocócica ou de acordo com a situação epidemiológica.</small></li>\n
+            <li><small>Para viajantes com destino às regiões onde há risco aumentado da doença.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas que tiveram anafilaxia após o uso de algum componente da vacina ou após dose anterior.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>As sociedades brasileiras de Pediatria (SBP) e de Imunizações (SBIm) recomendam o uso rotineiro dessa vacina para crianças e adolescentes. Na impossibilidade de usar a vacina ACWY, deve-se utilizar a vacina meningocócica C conjugada.</small></li>\n
+            <li><small>Para crianças, a vacinação de rotina deve iniciar aos 3 meses de idade com duas doses no primeiro ano de vida (dependendo das recomendações das bulas) e reforços entre 12 e 15 meses, entre 5 e 6 anos e aos 11 anos de idade. Para adolescentes que nunca receberam a vacina meningocócica conjugada ACWY, são recomendadas duas doses com intervalo de cinco anos.</small></li>\n
+            <li><small>Para adultos, dose única, a depender de risco epidemiológico ou condição de saúde.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="tetraviral">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Sarampo, caxumba, rubéola e varicela.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>A vacina SCR-V está recomendada para crianças e adolescentes com menos de 12 anos em substituição às vacinas tríplice viral (SCR) e varicela, quando a aplicação destas duas for coincidente.</small></li>\n
+            <li><small>O Programa Nacional de Imunizações (PNI) adotou a vacina SCR-V aos 15 meses, como segunda dose da SCR e primeira da varicela.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Gestantes; pessoas com comprometimento da imunidade por doença ou medicação; história de anafilaxia após dose anterior da vacina ou a algum componente.</small></li>\n
+            <li><small>A maioria das crianças com história de reação anafilática a ovo não tem reações adversas à vacina e, mesmo quando a reação é grave, não há contraindicação ao uso. Foi demonstrado, em muitos estudos, que pessoas com alergia ao ovo, mesmo aquelas com alergia grave, têm risco insignificante de reações anafiláticas. O teste cutâneo não é recomendado, pois não consegue prever se a reação acontecerá. No entanto, recomenda-se que estas crianças, por precaução, sejam vacinadas em ambiente hospitalar ou outro que ofereça condições de atendimento de anafilaxia.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>A Sociedade Brasileira de Imunizações (SBIm) considera protegido contra as quatro doenças todo indivíduo que recebeu duas doses na vida, com intervalo mínimo de 1 mês, a partir dos 12 meses. Como a vacina inclui componente varicela, o intervalo entre as doses deve ser de três meses.</small></li>\n
+            <li><small>A SBIm e a Sociedade Brasileira de Pediatria (SBP) recomendam na rotina uma dose aos 12 meses e outra entre 15 e 24 meses de idade, podendo a vacina SCR-V ser substituída pelas vacinas tríplice viral (SCR) e varicela.</small></li>\n
+            <li><small>O Programa Nacional de Imunizações (PNI) disponibiliza na rotina uma dose da vacina SCR-V aos 15 meses. A segunda dose da varicela é aplicada aos 4 anos de idade, com a vacina varicela isolada.</small></li>\n
+            <li><small>O sistema público disponibiliza na rotina duas doses de varicela: na apresentação SCR-V — aplicada aos 15 meses nas crianças que já receberam a primeira dose de tríplice viral — e em formulação isolada, aos 4 anos.</small></li>\n
+            <li><small>Indivíduos com história pregressa de sarampo, caxumba, rubéola e varicela (catapora) são considerados imunizados contra as doenças, mas é preciso certeza do diagnóstico. Na dúvida, recomenda-se a vacinação.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="hepatite_a">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Hepatite A.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Todas as pessoas a partir de 12 meses de vida.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas que tiveram reação anafilática a algum componente da vacina ou a dose anterior.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Duas doses com intervalo de seis meses.</small></li>\n
+            <li><small>As sociedades brasileiras de Pediatria (SBP) e de Imunizações (SBIm) recomendam a aplicação rotineira aos 12 e 18 meses de idade, ou o mais cedo possível, quando a vacinação não ocorrer nestas idades recomendadas.</small></li>\n
+            <li><small>O Programa Nacional de Imunizações (PNI) alterou, em 2017, a faixa etária do esquema de dose única da vacina para crianças entre 15 meses e antes de completar 5 anos de idade.</small></li>\n\n
+        </ul>
+    </string>
+
+    <string name="varicela">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Varicela (Catapora).</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>É recomendada de rotina para crianças a partir de 12 meses (excepcionalmente, em situações de surto, por exemplo, também para crianças menores, a partir de 9 meses).</small></li>\n
+            <li><small>Todas as crianças, adolescentes e adultos suscetíveis (que não tiveram catapora) devem ser vacinados.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas que tiveram anafilaxia causada por qualquer dos componentes da vacina ou após dose anterior, e gestantes.</small></li>\n
+            <li><small>Pessoas com deficiência do sistema imunológico, seja por doença ou tratamento imunossupressor, devem ser consultadas por um médico para a indicação, pois muitas vezes os danos causados pelo adoecimento são maiores que o risco oferecido pela vacina.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>O Programa Nacional de Imunizações (PNI) disponibiliza uma dose da vacina varicela, aos 4 anos de idade, correspondente à segunda dose do esquema contra varicela. A primeira dose é aplicada aos 15 meses, como parte da vacina tetraviral (SCR-V).</small></li>\n
+            <li><small>A Sociedade Brasileira de Pediatria (SBP) e a Sociedade Brasileira de Imunizações (SBIm) recomendam duas doses da vacina varicela: a primeira aos 12 meses e a segunda entre 15 e 24 meses de idade. Essas doses coincidem com o esquema de vacinação da vacina SCR e, portanto, a vacina SCR-V pode ser usada nas duas doses.</small></li>\n
+            <li><small>Para crianças até 11 anos, o intervalo mínimo entre doses é de três meses. Já para adolescentes e adultos suscetíveis são indicadas duas doses com intervalo de um a dois meses.</small></li>\n
+            <li><small>Em situação de surto na comunidade ou na creche/escola, ou ainda quando há um caso de varicela dentro de casa, a vacina pode ser aplicada em bebês a partir de 9 meses — essa dose aplicada antes de 12 meses será desconsiderada. A criança deverá tomar as duas doses de rotina, aos 12 meses e entre 15 e 24 meses de idade.</small></li>\n\n
+
+        </ul>
+    </string>
+
+    <string name="hpv">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Infecções persistentes e lesões pré-cancerosas causadas pelos tipos de HPV 6,11,16,18. Também previne o câncer de colo do útero, da vulva, da vagina, do ânus e verrugas genitais (condiloma).</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>O Programa Nacional de Imunizações (PNI) disponibiliza a vacina para:</small></li>\n
+            <small>Meninas de 9 a 14 anos de idade;</small>\n
+            <small>Meninas de 15 anos que já tenham tomado uma dose;</small>\n
+            <small>Meninos de 11 a 14 anos;</small>\n
+            <small>Indivíduos de 9 a 26 anos de ambos os sexos nas seguintes condições: convivendo com HIV/Aids; pacientes oncológicos em quimioterapia e/ou radioterapia; transplantados de órgãos sólidos ou de medula óssea.</small>\n
+            <li><small>A Sociedade Brasileira de Pediatria (SBP), a Sociedade Brasileira de Imunizações (SBIm) e a Federação Brasileira das Associações de Ginecologia e Obstetrícia (Febrasgo) recomendam a vacinação de meninas e mulheres de 9 a 45 anos de idade e meninos e jovens de 9 a 26 anos, o mais precocemente possível. Homens e mulheres em idades fora da faixa de licenciamento também podem ser beneficiados com a vacinação, de acordo com critério médico.</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Gestantes e pessoas que apresentaram anafilaxia após receber uma dose da vacina ou a algum de seus componentes.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>A vacina é licenciada para meninas e mulheres a partir dos 9 anos aos 45 anos e para meninos e homens entre 9 e 26 anos. O esquema deve ser iniciado o mais cedo possível.</small></li>\n
+            <li><small>São recomendadas duas ou três doses, dependendo da idade de início da vacinação.</small></li>\n
+            <li><small>Para meninas e meninos de 9 a 14 anos, 11 meses e 29 dias são indicadas duas doses, com intervalo de seis meses entre elas (0 - 6 meses).</small></li>\n
+            <li><small>A partir dos 15 anos, são três doses: a segunda, um a dois meses após a primeira, e a terceira, seis meses após a primeira dose (0 - 1 a 2 - 6 meses).</small></li>\n
+            <li><small>Independentemente da idade, pessoas imunodeprimidas por doença ou tratamento devem receber três doses: a segunda, um a dois meses após a primeira, e a terceira, seis meses após a primeira dose (0 - 1 a 2 - 6 meses).</small></li>\n\n
+
+        </ul>
+    </string>
+
+    <string name="dtpa">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Difteria, tétano e coqueluche.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para reforço das vacinas DTPa ou DTPw em crianças a partir de 3 anos de idade, adolescentes e adultos.</small></li>\n
+            <li><small>Gestantes.</small></li>\n
+            <li><small>Todas as pessoas que convivem com crianças menores de 2 anos, sobretudo com bebês com menos de 1 ano, incluindo familiares, babás, cuidadores e profissionais da Saúde..</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas que apresentaram anafilaxia ou sintomas neurológicos causados por algum componente da vacina ou após a administração de dose anterior.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Pode ser usada para a dose de reforço prevista para os 4-5 anos de idade.</small></li>\n
+            <li><small>Recomendada para o reforço na adolescência.</small></li>\n
+            <li><small>Recomendada para os reforços em adultos e idosos.</small></li>\n
+            <li><small>Para crianças com mais de 7 anos, adolescentes e adultos que não tomaram ou sem registro de três doses de vacina contendo o toxoide tetânico anteriormente, recomenda-se uma dose de dTpa seguida de duas ou três doses da dT.</small></li>\n
+            <li><small>As gestantes devem receber uma dose de dTpa, a cada gestação, a partir da 20ª semana de gestação. Se não vacinadas durante a gravidez, devem receber uma dose após o parto, o mais precocemente possível (de preferência ainda na maternidade).</small></li>\n
+            <li><small>Para crianças com mais de 3 anos, adolescentes e adultos não vacinados, com histórico vacinal desconhecido ou esquema básico contra o tétano incompleto: uma dose de dTpa a qualquer momento, seguida de uma ou duas outras doses da dT (dependendo de quantas faltam para completar o esquema de três doses contra o tétano). A vacina dTpa pode substituir a vacina dT.</small></li>\n\n
+
+        </ul>
+    </string>]
+    <string name="dtpa_gestante">
+        <p><b>O que previne?</b></p>\n
+        <ul>
+            <li><small>Difteria, tétano e coqueluche.</small></li>\n\n
+        </ul>
+        <p><b>Indicação:</b></p>\n
+        <ul>
+            <li><small>Para reforço das vacinas DTPa ou DTPw em crianças a partir de 3 anos de idade, adolescentes e adultos.</small></li>\n
+            <li><small>Gestantes.</small></li>\n
+            <li><small>Todas as pessoas que convivem com crianças menores de 2 anos, sobretudo com bebês com menos de 1 ano, incluindo familiares, babás, cuidadores e profissionais da Saúde..</small></li>\n\n
+        </ul>
+        <p><b>Contraindicação:</b></p>\n
+        <ul>
+            <li><small>Pessoas que apresentaram anafilaxia ou sintomas neurológicos causados por algum componente da vacina ou após a administração de dose anterior.</small></li>\n\n
+        </ul>
+        <p><b>Esquema de doses:</b></p>\n
+        <ul>
+            <li><small>Para crianças com mais de 7 anos, adolescentes e adultos que não tomaram ou sem registro de três doses de vacina contendo o toxoide tetânico anteriormente, recomenda-se uma dose de dTpa seguida de duas ou três doses da dT.</small></li>\n
+            <li><small>As gestantes devem receber uma dose de dTpa, a cada gestação, a partir da 20ª semana de gestação. Se não vacinadas durante a gravidez, devem receber uma dose após o parto, o mais precocemente possível (de preferência ainda na maternidade).</small></li>\n\n
+        </ul>
+    </string>
+
+</resources>
